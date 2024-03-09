@@ -1,0 +1,8 @@
+/dist/
+/node_modules/
+/.angular/
+/angular.json
+/.editorconfig
+/karma.conf.js
+/tsconfig.json
+/tslint.json
